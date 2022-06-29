@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmDangNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDanhSachPhieuNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDanhSachPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDoanhThu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKhachHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKho.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMHChinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNguoiDung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPhieuNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSanPham.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTheoDoiPhieuNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
